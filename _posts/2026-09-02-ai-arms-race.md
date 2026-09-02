@@ -14,7 +14,7 @@ image: assets/images/ai_arms_race.jpeg
 
 The article is right that AI development is increasingly governed by competitive dynamics that make voluntary restraint extremely unlikely. But I think it overstates both Europe's ability to “stop” the race and the usefulness of simply pausing AI development. The real question is not whether AI should advance, but who controls its direction, speed and distribution of benefits.
 
-The article's argument is essentially that the AI race is producing a strange consensus: people across the political spectrum increasingly agree that uncontrolled AI development could be socially disastrous, yet nobody seems capable of slowing it down. Its proposed answer is that Europe has a unique piece of leverage through ASML and its advanced chipmaking technology.
+The article's argument is essentially that the AI race is producing a strange consensus: People across the political spectrum increasingly agree that uncontrolled AI development could be socially disastrous, yet nobody seems capable of slowing it down. Its proposed answer is that Europe has a unique piece of leverage through ASML and its advanced chipmaking technology.
 
 ### 1. I think the article is absolutely right about the race dynamic
 
