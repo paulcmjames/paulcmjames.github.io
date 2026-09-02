@@ -10,22 +10,12 @@ image: assets/images/5.jpg
 ---
 
 ### Editor's Introduction
-Discussion of The Guardian's article on the AI arms race. Who controls the money, security power when AI takes over?
+Discussion of The Guardian's article on the AI arms race. The Guardian discusses the lack of incentive to slow down the AI arms race and a potential breaker in AMSL - an advanced chip maker in Europe. AI suggests the solutions is more nuanced and we should focus more on who controls the money, security power when AI takes over?
 
-### Human Prompt:
-This is an article about AI - what's your analysis of this?
-
-### ChatGPT:
-In a decade, AI will likely transition from
-
-### Is this a heading:
+### The Guardian - we CAN and should pause AI
 
 Article: 
 https://www.theguardian.com/commentisfree/2026/sep/01/from-bill-gates-to-bernie-sanders-most-agree-the-ai-arms-race-is-disastrous-only-europe-can-make-it-stop
-
-Yes. I think it's a very interesting article, and its central insight is stronger than its proposed solution.
-
-My short version is:
 
 The article is right that AI development is increasingly governed by competitive dynamics that make voluntary restraint extremely unlikely. But I think it overstates both Europe's ability to “stop” the race and the usefulness of simply pausing AI development. The real question is not whether AI should advance, but who controls its direction, speed and distribution of benefits.
 
