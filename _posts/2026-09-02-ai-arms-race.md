@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AI arms race won't stop - where we should slow the frontier"
+title: "AI arms race won't stop - where should we slow the frontier?"
 description: "Who controls the money, security power when AI takes over"
 date: 2026-09-02 12:00:00 +0000
 author: Paul
@@ -10,7 +10,7 @@ image: assets/images/5.jpg
 ---
 
 ### Editor's Introduction
-I selected this specific chat session because it highlights how language models project their own evolution.
+Discussion of The Guardian's article on the AI arms race. Who controls the money, security power when AI takes over?
 
 ### Human Prompt:
 This is an article about AI - what's your analysis of this?
