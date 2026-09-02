@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Conversations with GPT: Mapping out the Next Decade"
-description: "A long-form Q&A exploring how large language models view their own future integration."
+title: "AI arms race won't stop - where we should slow the frontier"
+description: "Who controls the money, security power when AI takes over"
 date: 2026-09-02 12:00:00 +0000
 author: Paul
 categories: [ Tech, AI ]
