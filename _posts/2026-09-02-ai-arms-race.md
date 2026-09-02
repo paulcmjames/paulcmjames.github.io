@@ -48,11 +48,11 @@ This is the most important part.
 
 Nobody really has an incentive to slow down.
 
-OpenAI worries about Google and Anthropic.
-Google worries about OpenAI and China.
-China worries about the US.
-Governments worry about losing economic and military advantage.
-Investors worry about missing the next trillion-dollar company.
++ OpenAI worries about Google and Anthropic.
++ Google worries about OpenAI and China.
++ China worries about the US.
++ Governments worry about losing economic and military advantage.
++ Investors worry about missing the next trillion-dollar company.
 
 So even if everyone privately agrees that slowing down would be sensible, individually they have strong incentives to continue.
 
