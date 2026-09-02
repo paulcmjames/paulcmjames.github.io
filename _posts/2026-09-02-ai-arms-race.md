@@ -11,7 +11,7 @@ image: assets/images/ai_arms_race.jpeg
 > I ask Chatgpt to analyse Guardian article on the AI arms race
 <a href="https://www.theguardian.com/commentisfree/2026/sep/01/from-bill-gates-to-bernie-sanders-most-agree-the-ai-arms-race-is-disastrous-only-europe-can-make-it-stop" target="_blank">The Guardian's says in its article on the AI arms race</a> that there is a lack of incentive to slow down the AI arms race but a potential race breaker in AMSL - an advanced chip maker in Europe. AI suggests the solutions is more nuanced and we should focus more on who controls the money, security and power when AI takes over.
 
-### The Guardian - we can and should pause AI
+### The real question is not whether AI should advance, but who controls its direction, speed and distribution of benefits.
 
 The article is right that AI development is increasingly governed by competitive dynamics that make voluntary restraint extremely unlikely. But I think it overstates both Europe's ability to “stop” the race and the usefulness of simply pausing AI development. The real question is not whether AI should advance, but who controls its direction, speed and distribution of benefits.
 
