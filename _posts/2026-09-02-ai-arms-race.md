@@ -6,7 +6,7 @@ date: 2026-09-02 12:00:00 +0000
 author: paul
 categories: [ Tech, AI ]
 tags: [ sticky ]
-image: assets/images/5.jpg
+image: assets/images/ai_arms_race.jpeg
 ---
 
 <a href="https://www.theguardian.com/commentisfree/2026/sep/01/from-bill-gates-to-bernie-sanders-most-agree-the-ai-arms-race-is-disastrous-only-europe-can-make-it-stop" target="_blank">The Guardian's says in its article on the AI arms race</a> that there is a lack of incentive to slow down the AI arms race but a potential race breaker in AMSL - an advanced chip maker in Europe. AI suggests the solutions is more nuanced and we should focus more on who controls the money, security and power when AI takes over.
