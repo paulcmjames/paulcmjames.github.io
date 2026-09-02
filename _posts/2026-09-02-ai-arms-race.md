@@ -32,7 +32,7 @@ So even if everyone privately agrees that slowing down would be sensible, indivi
 
 That's a classic collective-action problem.
 
-It's rather like climate change, except potentially faster: everyone benefits from restraint, but each individual actor fears being the one who restrains themselves while everyone else carries on.
+It's rather like climate change, except potentially faster, everyone benefits from restraint, but each individual actor fears being the one who restrains themselves while everyone else carries on.
 
 And I think this is particularly relevant to something we've discussed before: AI isn't simply another technology being introduced into society gradually. The speed matters enormously.
 
