@@ -10,7 +10,7 @@ image: assets/images/5.jpg
 ---
 
 ### Editor's Introduction
-Discussion of The Guardian's article on the AI arms race. The Guardian discusses the lack of incentive to slow down the AI arms race and a potential breaker in AMSL - an advanced chip maker in Europe. AI suggests the solutions is more nuanced and we should focus more on who controls the money, security power when AI takes over?
+Discussion of The Guardian's article on the AI arms race. The Guardian discusses the lack of incentive to slow down the AI arms race and a potential breaker in AMSL - an advanced chip maker in Europe. AI suggests the solutions is more nuanced and we should focus more on who controls the money, security and power when AI takes over.
 
 ### The Guardian - we CAN and should pause AI
 
