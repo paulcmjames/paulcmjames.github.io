@@ -3,7 +3,7 @@ layout: post
 title: "AI arms race won't stop - where should we slow the frontier?"
 description: "Who controls the money, security power when AI takes over"
 date: 2026-09-02 12:00:00 +0000
-author: Paul
+author: paul
 categories: [ Tech, AI ]
 tags: [ sticky ]
 image: assets/images/5.jpg
