@@ -9,7 +9,7 @@ tags: [ sticky ]
 image: assets/images/5.jpg
 ---
 
-<a href="https://www.theguardian.com/commentisfree/2026/sep/01/from-bill-gates-to-bernie-sanders-most-agree-the-ai-arms-race-is-disastrous-only-europe-can-make-it-stop">The Guardian's says in its article on the AI arms race</a> that there is a lack of incentive to slow down the AI arms race but a potential race breaker in AMSL - an advanced chip maker in Europe. AI suggests the solutions is more nuanced and we should focus more on who controls the money, security and power when AI takes over.
+<a href="https://www.theguardian.com/commentisfree/2026/sep/01/from-bill-gates-to-bernie-sanders-most-agree-the-ai-arms-race-is-disastrous-only-europe-can-make-it-stop" target="_blank">The Guardian's says in its article on the AI arms race</a> that there is a lack of incentive to slow down the AI arms race but a potential race breaker in AMSL - an advanced chip maker in Europe. AI suggests the solutions is more nuanced and we should focus more on who controls the money, security and power when AI takes over.
 
 ### The Guardian - we can and should pause AI
 
