@@ -8,7 +8,7 @@ categories: [ Tech, AI ]
 tags: [ sticky ]
 image: assets/images/ai_arms_race.jpeg
 ---
-> I ask `Chatgpt` to analyse <a href="https://www.theguardian.com/commentisfree/2026/sep/01/from-bill-gates-to-bernie-sanders-most-agree-the-ai-arms-race-is-disastrous-only-europe-can-make-it-stop" target="_blank">Guardian article on the AI arms race</a> which says there is a lack of incentive to slow down AI development but a potential race breaker in AMSL - an advanced chip maker in Europe. AI suggests the solutions is more nuanced and we should focus more on who controls the money, security and power when AI takes over.
+> I ask `Chatgpt` to analyse <a href="https://www.theguardian.com/commentisfree/2026/sep/01/from-bill-gates-to-bernie-sanders-most-agree-the-ai-arms-race-is-disastrous-only-europe-can-make-it-stop" target="_blank">Guardian article on the AI arms race</a> which says there is a lack of incentive to slow down AI development but a potential race breaker in AMSL - an advanced chip maker in Europe. AI suggests the solution is more nuanced and we should focus more on who controls the money, security and power when AI takes over.
 
 ### The real question is not whether AI should advance, but who controls its direction, speed and distribution of benefits.
 
