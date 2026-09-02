@@ -18,17 +18,6 @@ This is an article about AI - what's your analysis of this?
 ### ChatGPT:
 In a decade, AI will likely transition from
 
----
-layout: post
-title: "The AI Arms Race: Why 'Make it Stop' is the Wrong Objective"
-description: "An analysis of the Guardian's essay on Europe's ASML choke-point and why the real issue is democratic control, not a pause button."
-date: 2026-09-02 12:00:00 +0000
-author: john
-categories: [ Tech, AI ]
-tags: [ sticky ]
-image: assets/images/5.jpg
----
-
 ### Is this a heading:
 
 Article: 
