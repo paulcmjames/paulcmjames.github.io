@@ -911,5 +911,19 @@ footer.footer, .share {
     background-color: #F4EFE7 !important;
 }
 
+/* Custom Editorial Tweak: Sapphic Index Background */
+body, .site-content, .navbar, .jumbotron, .card, .mainheading, .alert, .author-box, .post-footer, .after-post-tags {
+    background-color: #F4EFE7 !important;
+    border-color: rgba(0,0,0,0.08) !important;
+}
+
+footer.footer, .share {
+    background-color: #F4EFE7 !important;
+}
+
+/* Custom Editorial Tweak: Global Andale Mono Font Swap */
+body, h1, h2, h3, h4, h5, h6, .nav-link, .navbar-brand, .posttitle, p, a, span {
+    font-family: "Andale Mono", AndaleMono, monospace !important;
+}
 
 
