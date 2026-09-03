@@ -899,3 +899,13 @@ iframe {
     opacity: 0;
     transition: opacity .25s;
 }
+
+/* Custom Editorial Tweak: Sapphic Index Background */
+body, .site-content, .navbar, .jumbotron, .card, .mainheading {
+    background-color: #F4EFE7 !important;
+}
+
+/* Match the footer layout to the new canvas color */
+footer.footer, .share {
+    background-color: #F4EFE7 !important;
+}
