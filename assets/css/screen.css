@@ -901,8 +901,9 @@ iframe {
 }
 
 /* Custom Editorial Tweak: Sapphic Index Background */
-body, .site-content, .navbar, .jumbotron, .card, .mainheading {
+body, .site-content, .navbar, .jumbotron, .card, .mainheading, .alert, .author-box, .post-footer, .after-post-tags {
     background-color: #F4EFE7 !important;
+    border-color: rgba(0,0,0,0.08) !important;
 }
 
 /* Match the footer layout to the new canvas color */
