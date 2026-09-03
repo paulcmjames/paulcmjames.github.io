@@ -911,36 +911,5 @@ footer.footer, .share {
     background-color: #F4EFE7 !important;
 }
 
-/* Custom Editorial Tweak: Sapphic Index Typography */
 
-/* 1. Global Reading Fonts */
-body {
-    font-family: "Georgia", serif !important;
-    color: #111111 !important;
-}
-
-/* 2. Primary Layout Headers (Stark Sans-Serif) */
-h1, h2, h3, h4, .mainheading h1, .navbar-brand, .blog-header-logo {
-    font-family: "Helvetica Neue", Arial, sans-serif !important;
-    font-weight: 800 !important;
-    text-transform: uppercase !important;
-    letter-spacing: -0.5px !important;
-    color: #000000 !important;
-}
-
-/* 3. Navigation Links (Clean, All-Caps, Balanced) */
-.navbar-nav .nav-link, .nav-item a, .after-post-tags .btn {
-    font-family: "Helvetica Neue", Arial, sans-serif !important;
-    font-weight: 700 !important;
-    text-transform: uppercase !important;
-    font-size: 0.85rem !important;
-    letter-spacing: 1px !important;
-}
-
-/* 4. Article Post Title Specific Tweak */
-.posttitle {
-    font-family: "Helvetica Neue", Arial, sans-serif !important;
-    font-weight: 800 !important;
-    text-transform: uppercase !important;
-}
 
