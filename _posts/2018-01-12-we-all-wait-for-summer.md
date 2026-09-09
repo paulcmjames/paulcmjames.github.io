@@ -6,7 +6,7 @@ categories: [ Jekyll, tutorial ]
 image: assets/images/5.jpg
 rating: .5
 ---
-PART 2 – TAX, WELFARE AND GOVERNMENT FINANCES
+## 1. PART 2 – TAX, WELFARE AND GOVERNMENT FINANCES
 Executive Summary
 Many of the most common political claims in Britain focus on:
 Taxes being too high.
@@ -19,7 +19,7 @@ Welfare spending is large, but most goes to pensions, healthcare and disability 
 Fraud exists but is substantially smaller than total welfare spending.
 Britain runs persistent deficits and has a high national debt, but debt interest does not consume all government spending.
 The UK's deeper problem may be weak productivity growth rather than simply excessive spending.
-Chapter 1 – Where Does Government Money Come From?
+## 2. Chapter 1 – Where Does Government Money Come From?
 Government Revenue
 Approximate UK government revenue:
 Source	Approx Share
@@ -41,7 +41,7 @@ Wealth taxes
 Capital gains
 Inheritance taxes
 This often surprises people.
-Chapter 2 – Is Britain a High-Tax Country?
+## 3. Chapter 2 – Is Britain a High-Tax Country?
 Tax as % of GDP
 Approximate comparison:
 Country	Tax Revenue as % GDP
@@ -64,7 +64,7 @@ Wealth.
 Property.
 Capital.
 This is one reason debates about wealth taxation continue.
-Chapter 3 – Wealth Tax Debate
+## 3. Chapter 3 – Wealth Tax Debate
 Argument For
 Supporters argue:
 Wealth is more concentrated than income.
@@ -91,7 +91,7 @@ Practical implementation.
 Thresholds.
 Asset valuation.
 Not whether wealth inequality exists.
-Chapter 4 – Welfare Spending
+## 4. Chapter 4 – Welfare Spending
 Total Welfare Spending
 Approximate annual welfare spending exceeds £300 billion.
 However, this is often misunderstood.
@@ -103,7 +103,7 @@ Universal Credit	Moderate
 Housing Support	Moderate
 Child Benefits	Smaller
 Unemployment Benefits	Relatively small
-Reality Check
+## 5. Reality Check
 Many people imagine welfare spending is primarily:
 "People who don't work."
 In reality:
