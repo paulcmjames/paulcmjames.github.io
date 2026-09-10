@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "test taxes Dunc!!!"
+title:  "Tax talk!!"
 author: john
 categories: [ Jekyll, tutorial ]
 image: assets/images/5.jpg
