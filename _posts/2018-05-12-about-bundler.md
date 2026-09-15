@@ -3,7 +3,7 @@ layout: post
 title:  "UK Energy - Part 1"
 author: sal
 categories: [ Jekyll ]
-image: assets/images/2.jpg
+image: assets/images/uk-energy-crisis.png
 rating: 3
 ---
 Yes, that's broadly consistent with how I would explain it. Let me restate each point and add some nuance.
